@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTubeFeed</string>
+    <string name="title_activity_main">YoutubeFeed Activity</string>
+    <string name="title_activity_notification">YouTube</string>
+</resources>
